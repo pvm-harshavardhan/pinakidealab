@@ -1,0 +1,37 @@
+.pink-container{
+    width: 700px;
+    height: 500px;
+    background-color: rgb(255, 0, 230);
+}
+.blue-container{
+    height: 400px;
+    background-color: #4033ff;
+}
+ img{
+    width:70px;
+    rotate: 270deg;
+}
+.img{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.p-text{
+    margin: auto;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 2.5rem;
+    font-style: bold;
+    padding-top: 100px;
+}
+.arrow{
+    height: 0;
+    width: 0;
+    margin: auto;
+  border-top: 5vw solid #4033ff;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  
+}
